@@ -86,7 +86,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=elsuinda&theme=tokyonight&hide_border=true" width="70%"/>
+<img src="https://streak-stats.demolab.com/?user=elsuinda&theme=tokyonight&hide_border=true&disable_animations=true" width="70%"/>
 
 ## 📫 Contacto / Contact
 
